@@ -116,6 +116,8 @@ body {
     margin-left: 95%;
 }
 
+
+
 .BIO-2 {
     color: aqua;
     font-size: 50px;
@@ -134,4 +136,40 @@ body {
     width: 300px;
     margin-left: 5%;
     
+}
+
+.My-Nextech-Project2 {
+    color: yellow;
+    font-size: 50px;
+    margin-left: 5%;
+}
+
+.Unit-2-Project {
+    color: yellow;
+    font-size: 35px;
+}
+
+.Text-Session-Unit-2 {
+    color: white;
+    font-size: 25px;
+}
+
+.Unit-3-Project {
+    color: yellow;
+    font-size: 35px;
+}
+
+.Text-Session-Unit-3 {
+    color: white;
+    font-size: 25px;
+}
+
+.Unit-5-Project {
+    color: yellow;
+    font-size: 35px;
+}
+
+.Text-Session-Unit-5 {
+    color: white;
+    font-size: 25px;
 }
