@@ -116,7 +116,11 @@ body {
     margin-left: 95%;
 }
 
-
+.My-Photo {
+    margin-left: 55%;
+    position: relative;
+    bottom: 550px;
+}
 
 .BIO-2 {
     color: aqua;
@@ -142,34 +146,76 @@ body {
     color: yellow;
     font-size: 50px;
     margin-left: 5%;
+   position: relative;
+   bottom: 500px;
+}
+
+.Screenshot-1 {
+    margin-left: 5%;
+    position: relative; 
+    bottom: 410px;
 }
 
 .Unit-2-Project {
     color: yellow;
     font-size: 35px;
+    margin-left: 5%;
+    position: relative;
+    bottom: 350px;
+    
 }
 
 .Text-Session-Unit-2 {
     color: white;
     font-size: 25px;
+    width: 260px;
+    margin-left: 5%;
+    position: relative;
+    bottom: 330px
+}
+
+.Screenshot-2 {
+    margin-left: 40%;
+    position: relative;
+    bottom: 765px;
 }
 
 .Unit-3-Project {
     color: yellow;
     font-size: 35px;
+    margin-left: 40%;
+    position: relative;
+    bottom: 710px;
 }
 
 .Text-Session-Unit-3 {
     color: white;
     font-size: 25px;
+    width: 270px;
+    margin-left: 40%;
+    position: relative;
+    bottom: 690px;
+}
+
+.Screenshot-3 {
+    margin-left: 75%;
+    position: relative;
+    bottom: 1182px;
 }
 
 .Unit-5-Project {
     color: yellow;
     font-size: 35px;
+    margin-left: 75%;
+    position: relative;
+    bottom: 1130px;
 }
 
 .Text-Session-Unit-5 {
     color: white;
     font-size: 25px;
+    width: 270px;
+    margin-left: 75%;
+    position: relative;
+    bottom: 1120px;
 }
