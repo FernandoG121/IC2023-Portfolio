@@ -307,24 +307,35 @@ body {
 .Lets-chat {
     color: yellow;
     font-size: 50px;
+    position: relative;
+    bottom: 2100px;
 }
 
 .Phone {
     color: yellow;
     font-size: 40px;
+    position: relative;
+    bottom: 2100px;
 }
 
 .Phone-number {
     color: white;
     font-size: 30px;
+    position: relative;
+    bottom: 2100px;
 }
 
 .Email {
     color: yellow;
     font-size: 40px;
+    position: relative;
+    bottom: 2100px;
 }
 
 .my-email {
     color: white;
     font-size: 30px;
+    position: relative;
+    bottom: 2100px;
 }
+
