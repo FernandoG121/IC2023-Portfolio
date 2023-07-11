@@ -219,3 +219,79 @@ body {
     position: relative;
     bottom: 1120px;
 }
+
+.Quotaion-Mark-1 {
+    color: white;
+    font-size: 500px;
+    margin-left: 7%;
+    position: relative;
+    bottom: 1100px;
+}
+
+.My-Goal-2 {
+    color: white;
+    font-size: 50px;
+    width:700px;
+    margin-left: 25%;
+    position: relative;
+    bottom: 1400px;
+}
+
+.Quotaion-Mark-2 {
+    color: white;
+    font-size: 500px;
+    margin-left: 80%;
+    position: relative;
+    bottom: 2010px;
+}
+
+.From-my-viewers {
+    color: lightblue;
+    font-size: 50px;
+    margin-left: 5%;
+    position: relative;
+    bottom: 1900px;
+}
+
+.Comment-1 {
+    color: yellow;
+    font-size: 40px;
+    width: 400px;
+    margin-left: 1%;
+    position: relative;
+    bottom: 1850px;
+}
+
+.Name-Comminter-1 {
+    color: white;
+    font-size: 30px;
+    margin-left: 12%;
+    position: relative;
+    bottom: 1850px;
+}
+
+.Comment-2 {
+    color: yellow;
+    font-size: 40px;
+    width: 400px;
+    margin-left: 33%;
+    position: relative;
+    bottom: 2110px;
+}
+
+.Name-Comminter-2 {
+    color: white;
+    font-size: 30px;
+    margin-left: 40%;
+    position: relative;
+    bottom: 2100px;
+}
+
+.Comment-3 {
+    color: yellow;
+    font-size: 40px;
+    width: 400px;
+    margin-left: 65%;
+    position: relative;
+    bottom: 2330px;
+}
