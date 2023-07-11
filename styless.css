@@ -1,5 +1,5 @@
 body {
-    background-image: url(download/PortfolioBackground_AdobeExpress.gif);
+    background-color: black;
     background-size: cover;
     
 }
@@ -273,8 +273,8 @@ body {
 .Comment-2 {
     color: yellow;
     font-size: 40px;
-    width: 400px;
-    margin-left: 33%;
+    width: 410px;
+    margin-left: 32%;
     position: relative;
     bottom: 2110px;
 }
@@ -291,7 +291,40 @@ body {
     color: yellow;
     font-size: 40px;
     width: 400px;
-    margin-left: 65%;
+    margin-left: 67%;
     position: relative;
     bottom: 2330px;
+}
+
+.Name-Comminter-3 {
+    color: white;
+    font-size: 30px;
+    margin-left: 77%;
+    position: relative;
+    bottom: 2350px;
+}
+
+.Lets-chat {
+    color: yellow;
+    font-size: 50px;
+}
+
+.Phone {
+    color: yellow;
+    font-size: 40px;
+}
+
+.Phone-number {
+    color: white;
+    font-size: 30px;
+}
+
+.Email {
+    color: yellow;
+    font-size: 40px;
+}
+
+.my-email {
+    color: white;
+    font-size: 30px;
 }
